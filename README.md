@@ -13,7 +13,7 @@ An in-depth paragraph of your project and overview of use.
 - How/Where to download your program
 - Any modifications needed to be made to files/folders
 ```sh
-code blocks for comands
+code blocks for commands
 ```
 
 ### License
